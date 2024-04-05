@@ -1,5 +1,4 @@
 import React from 'react'
-import Continuebtn from './Continuebtn'
 import { Link } from 'react-router-dom';
 
 const Thirdpage = ({handleClick}) => {
